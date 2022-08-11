@@ -1,10 +1,7 @@
-![MasterHead](https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=790b7611a01ea0f0241f19731761bfa901fd6c01ae35fb14&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Christopher Akinsanmi</h1>
 <h3 align="left">
 🔸Jamf Cloud Admin 🔸Sophos central Admin 🔸Azure Endpoint Admin 🔸Software Engineer.
 </h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/4rZA5D22301iMgrUNd/200w.webp?cid=ecf05e471tpw4dojvqqddj982zlh4l1hurm18xkmazxv9py8&rid=200w.webp&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapdevs&label=Profile%20views&color=0e75b6&style=flat" alt="swapdevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapdevs" alt="swapdevs" /></a> </p>
