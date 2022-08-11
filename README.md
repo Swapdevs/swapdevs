@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christopher Akinsanmi</h1>
-<h3 align="left">
-🔸Jamf Cloud Admin 🔸Sophos central Admin 🔸Azure Endpoint Admin 🔸Software Engineer.
-</h3>
+<h2 align="left">
+<h3 align= "left">I have some experience with: </strong> </h3>
+🔸Jamf Cloud Admin. 🔸Sophos central Admin. 🔸Azure Endpoint Admin. 🔸Software Engineer.
+</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapdevs&label=Profile%20views&color=0e75b6&style=flat" alt="swapdevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapdevs" alt="swapdevs" /></a> </p>
