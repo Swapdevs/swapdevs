@@ -8,19 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/swapdevs" target="blank"><img src="https://img.shields.io/twitter/follow/swapdevs?logo=twitter&style=for-the-badge" alt="swapdevs" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce website**
-
-- 🌱 I’m still learning **Python, Django and React...**
-
-- 👯 I’m looking to collaborate on **Django Projects**
-
-- 🤝 I’m looking for help with **Some of my Projects**
+- 🌱 I’m still learning **Javascript, Python, Django and React...**
 
 - 💬 Ask me about **Javascript, React, Python, Django and MySQL Database**
 
 - 📫 How to reach me **christopher.akinsanmi@gmail.com**
 
-- ⚡ Fun fact **I think I'm Steve Harvey (Do anything for fun)**
+- ⚡ Fun fact **I think I'm Steve Harvey (I do anything for fun)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
