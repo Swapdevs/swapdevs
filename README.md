@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Akinsanmi</h1>
 <h2 align="left">
-<h3 align= "left">I have some experience with: </strong> </h3>
+<h3 align= "left">IT Officer with the following experience: </strong> </h3>
 🔸Jamf Cloud Admin. 🔸Sophos central Admin. 🔸Azure Endpoint Admin. 🔸Software Developer.
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapdevs&label=Profile%20views&color=0e75b6&style=flat" alt="swapdevs" /> </p>
