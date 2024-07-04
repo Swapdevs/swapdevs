@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Christopher Akinsanmi</h1>
 <h2 align="left">
 <h3 align= "left">IT Officer with the following experience: </strong> </h3>
-🔸Jamf Cloud Admin. 🔸Sophos central Admin. 🔸Azure Endpoint Admin. 🔸Software Developer.
+🔸Jamf Cloud Admin. 🔸Sophos Central Admin. 🔸Azure Endpoint Admin. 🔸Software Developer.
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapdevs&label=Profile%20views&color=0e75b6&style=flat" alt="swapdevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapdevs" alt="swapdevs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/swapdevs" target="blank"><img src="https://img.shields.io/twitter/follow/swapdevs?logo=twitter&style=for-the-badge" alt="swapdevs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swapdevs_" target="blank"><img src="https://img.shields.io/twitter/follow/swapdevs_?logo=twitter&style=for-the-badge" alt="swapdevs_" /></a> </p>
 
 - 🌱 I’m still learning **Javascript, Python, Django and React...**
 
