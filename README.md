@@ -1,5 +1,5 @@
 # 💫 Hello there 😃:
-<h1 align="center">Hi 👋, I'm Christopher Akinsanmi</h1>
+<h1 align="center">I'm Christopher Akinsanmi</h1>
 <h2 align="left">
 <h3 align= "left">ACE Multi-Cloud Networking Engineer.|| AWS Cloud & DevOps Engineer || M.365 Administrator. || IT Supports.</strong> </h3>
 
